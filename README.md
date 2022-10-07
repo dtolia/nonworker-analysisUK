@@ -31,7 +31,7 @@ The resulting plot was very different:
 
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/1_Pithoragarh.png "Correct Plot for District Pithoragarh")
 
-Gangolihat is no longer in the top 3, replaced by **Berinag**. While an obscure **Kanali Chhina** has come to the forefront. 
+Gangolihat is no longer at the top, replaced by **Berinag**. While an obscure **Kanali Chhina** has come to the forefront. 
 And friends, this is how data can be misinterpreted to transfer funds to the wrong places. Incorrect policies could also be implemented as a result.
 
 
