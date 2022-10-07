@@ -19,7 +19,7 @@ These non-workers survive on:
 ### Methodology
 I initially charted the total number of non-workers in every development block per district. But soon realised it didn't give an apt picture of where govenment efforts should be prioritised as some development blocks had high non-worker density because they were greatly populated than other regions. For example,
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/incorrectPlotPithoragarh.png "Incorrect Plot for District Pithoragarh")
 
 The graph above shows 'Gangolihat' as the hub of non-workers, totaling to approx. 38k! But it is also true that Gangolihat is more densely populated than other blocks in the district.
 So, as a workaround, I calculated 'non-worker percentage against total population' for each development block through:
