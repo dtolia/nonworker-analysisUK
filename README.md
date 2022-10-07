@@ -35,3 +35,8 @@ The resulting plot was very different:
 
 
 Gangolihat is no longer in the top-3, replaced by **Berinag**. While an obscure **Kanali Chhina** has come to the forefront.
+And friends, this is how data can be misinterpreted to tranfer funds at wrong places. Incorrct policies could also be implemented as a result.
+
+
+## 2. Observation -1
+---
