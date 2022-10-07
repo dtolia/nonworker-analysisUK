@@ -29,4 +29,7 @@ df_pct = df_cdb.assign(non_working_population_percent=((df_cdb['Non Working Popu
 ```
 
 The resulting plot was very different:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/1_Pithoragarh.png "Correct Plot for District Pithoragarh")
+
+
