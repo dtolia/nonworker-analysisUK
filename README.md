@@ -76,3 +76,24 @@ Also, notice that most non-workers are women in each of these development blocks
 </details>
 
 Hence, any policy we implement must be women-centric to provide equal relief to all non-workers in these districts.
+
+
+## 3. Observation -2
+---
+
+Compare the following two graphs from Kumaon Division:
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/1_Pithoragarh.png "Plot for District Pithoragarh")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/6_UdhamSinghNagar.png "Plot for District Udham Singh Nagar")
+
+You may observe a sharp rise in men/women disparity among non-workers in the top three non-worker-dominated development blocks. This difference remains especially evident when comparing the Himalayan districts of Uttarakhand with those that have parts of the northern plains in them.
+
+A similar observation can be made for Garhwal Division as well:
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/7_Uttarkashi.png "Plot for District Uttarkashi")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/13_Haridwar.png "Plot for District Haridwar")
+
+Thus, we have a relationship but what can be the cause?! Is it the difference in ethnic culture? The result of exclusionary and unequal urbanization? Or could it be something that we’re completely missing out on!?! 
+Anyway, this cannot be determined until we thoroughly analyze relevant data in this regard.
