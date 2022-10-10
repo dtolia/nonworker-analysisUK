@@ -35,7 +35,7 @@ Gangolihat is no longer at the top, replaced by **Berinag**. While an obscure **
 And friends, this is how data can be misinterpreted to transfer funds to the wrong places. Incorrect policies could also be implemented as a result.
 
 
-## 2. Observation -1
+## 2. Observation -I
 ---
 
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/8_Chamoli.png "Plot for District Chamoli")
@@ -78,7 +78,7 @@ Also, notice that most non-workers are women in each of these development blocks
 Hence, any policy we implement must be women-centric to provide equal relief to all non-workers in these districts.
 
 
-## 3. Observation -2
+## 3. Observation -II
 ---
 
 Compare the following two graphs from Kumaon Division:
@@ -96,5 +96,4 @@ A similar observation can be made for Garhwal Division as well:
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/13_Haridwar.png "Plot for District Haridwar")
 
 Thus, we have a relationship but what can be the cause?! Is it the difference in ethnic culture? The result of exclusionary and unequal urbanization? Or could it be something that we’re completely missing out on!?! 
-
 This shall be determined as we thoroughly analyze relevant data in this regard.
