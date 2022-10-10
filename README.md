@@ -45,7 +45,7 @@ The chart above has two parts:
 * Vertical Bar Graph that compares the Men-Women ratio among non-workers in the top three non-worker-dominated development blocks.
 
 Therefore, in the Chamoli district, we must provide aid in order of Karnaprayag -> Narayan Bagar -> Dasholi development blocks. This would ensure that the most needful get the help first. 
-Also, notice that most non-workers are women in each of these development blocks. This is a trend that repeats in each district as can be seen by clicking the tab below.
+Also, notice that most non-workers are women in each of these development blocks. This is a trend that repeats in almost every district as can be seen by clicking the tab below.
 
 <details><summary>See All Charts</summary>
 <p>
