@@ -21,7 +21,7 @@ I initially charted the total number of non-workers in every development block p
 
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/incorrectPlotPithoragarh.png "Incorrect Plot for District Pithoragarh")
 
-The graph above shows **Gangolihat** as the hub of non-workers, totaling approx. 38k people! But it is also true that Gangolihat is more densely populated than other blocks in the district. So, as a workaround, I calculated the *non-worker percentage against the total population* for each development block through:
+The graph above shows **Gangolihat** as the hub of non-workers, totaling approximately thirty-eight thousand people! But it is also true that Gangolihat is more densely populated than other blocks in the district. So, as a workaround, I calculated the *non-worker percentage against the total population* for each development block through:
 
 ```python
 df_pct = df_cdb.assign(non_working_population_percent=((df_cdb['Non Working Population Person']/df_cdb['Total Population Person']) * 100))
@@ -37,3 +37,42 @@ And friends, this is how data can be misinterpreted to transfer funds to the wro
 
 ## 2. Observation -1
 ---
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/8_Chamoli.png "Plot for District Chamoli")
+
+The chart above has two parts: 
+* Horizontal Bar Graph that compares the non-worker percentage in each development block; 
+* Vertical Bar Graph that compares the Men-Women ratio among non-workers in the top three non-worker-dominated development blocks.
+
+Therefore, in the Chamoli district, we must provide aid in order of Karnaprayag -> Narayan Bagar -> Dasholi development blocks. This would ensure that the most needful get the help first. 
+Also, notice that most non-workers are women in each of these development blocks. This is a trend that repeats in each district as can be seen by clicking the tab below.
+
+<details><summary>See All Charts</summary>
+<p>
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/2_Bageshwar.png "Plot for District Bageshwar")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/3_Almora.png "Plot for District Almora")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/4_Champawat.png "Plot for District Champawat")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/5_Nainital.png "Plot for District Nainital")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/6_UdhamSinghNagar.png "Plot for District Udham Singh Nagar")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/7_Uttarkashi.png "Plot for District Uttarkashi")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/9_Tehri.png "Plot for District Tehri")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/10_Rudraprayag.png "Plot for District Rudraprayag")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/11_Dehradun.png "Plot for District Dehradun")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/12_Pauri.png "Plot for District Pauri")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/13_Haridwar.png "Plot for District Haridwar")
+
+</p>
+</details>
+
+Hence, any policy we implement must be women-centric to provide equal relief to all non-workers in these districts.
