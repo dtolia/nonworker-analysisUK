@@ -84,10 +84,11 @@ Hence, any policy we implement must be women-centric to provide equal relief to 
 Compare the following two graphs from Kumaon Division:
 
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/1_Pithoragarh.png "Plot for District Pithoragarh")
-
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/6_UdhamSinghNagar.png "Plot for District Udham Singh Nagar")
 
-You may observe a sharp men/women disparity among non-workers in the top three non-worker-dominated development blocks. This difference becomes especially evident when comparing the Himalayan districts (like Pithoragarh) of Uttarakhand with those that have parts of the northern plains in them (like Udham Singh Nagar).
+You may observe a sharp men/women disparity among non-workers in the top three non-worker-dominated development blocks. But when comparing the Himalayan districts (like Pithoragarh) of Uttarakhand with those that have parts of the northern plains in them (like Udham Singh Nagar), we come across a unique observation:
+
+"The non-working women in districts with parts of the northern plains in them are twice in number than non-working men. Himalayan districts fare better comparatively."
 
 A similar observation can be made for Garhwal Division as well:
 
