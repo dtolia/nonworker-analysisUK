@@ -95,4 +95,5 @@ A similar observation can be made for Garhwal Division as well:
 
 Thus, we have a relationship but what can be the cause?! Is it the difference in ethnic culture? The result of exclusionary and unequal urbanization? Or could it be something that we’re completely missing out on!?! 
 This shall be determined as we thoroughly analyze relevant data in this regard.
+
 ---
