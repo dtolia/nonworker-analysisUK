@@ -83,7 +83,7 @@ Compare the following two graphs from Kumaon Division:
 
 You may observe a sharp men/women disparity among non-workers in the top three non-worker-dominated development blocks. But when comparing the Himalayan districts (like Pithoragarh) of Uttarakhand with those that have parts of the northern plains in them (like Udham Singh Nagar), we come across a unique observation:
 
-"The non-working women in districts with parts of the northern plains in them are twice in number than non-working men. Himalayan districts fare better comparatively."
+> "The non-working women in districts with parts of the northern plains in them are twice in number than non-working men. Himalayan districts fare better comparatively."
 
 A similar observation can be made for Garhwal Division as well:
 
