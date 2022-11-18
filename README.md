@@ -1,12 +1,9 @@
 # State of Non-Workers in Uttarakhand (Census 2011)
----
-
 Unemployment has been a burning issue in the country. But add **non-workers** to the mix and you have yourself a peculiar problem. This project aims to share observations regarding the trends among non-workers in the state of Uttarakhand, India. Two things caught my eye but we will get to that after going over some basics.
 
-
-## 1. Basics
 ---
 
+## 1. Basics
 ### Definition
 Non-workers are defined as those who do not participate in any economic activity — paid or unpaid, household duties, or cultivation.
 
@@ -34,10 +31,9 @@ The resulting plot was very different:
 Gangolihat is no longer at the top, replaced by **Berinag**. While an obscure **Kanali Chhina** has come to the forefront. 
 And friends, this is how data can be misinterpreted to transfer funds to the wrong places. Incorrect policies could also be implemented as a result.
 
-
-## 2. Observation -I
 ---
 
+## 2. Observation -I
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/8_Chamoli.png "Plot for District Chamoli")
 
 The chart above has two parts: 
@@ -77,6 +73,7 @@ Also, notice that most non-workers are women in each of these development blocks
 
 Hence, any policy we implement must be women-centric to provide equal relief to all non-workers in these districts.
 
+---
 
 ## 3. Observation -II
 Compare the following two graphs from Kumaon Division:
@@ -95,4 +92,5 @@ A similar observation can be made for Garhwal Division as well:
 
 Thus, we have a relationship but what can be the cause?! Is it the difference in ethnic culture? The result of exclusionary and unequal urbanization? Or could it be something that we’re completely missing out on!?! 
 This shall be determined as we thoroughly analyze relevant data in this regard.
+
 ---
